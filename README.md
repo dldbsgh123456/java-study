@@ -1,4 +1,4 @@
-<img width="653" height="863" alt="image" src="https://github.com/user-attachments/assets/4c17f978-0a85-4f83-a761-182e8ffe50ac" /># ☕ Java 학습 정리
+# ☕ Java 학습 정리
 
 
 ## 정리
