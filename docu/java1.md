@@ -1,29 +1,6 @@
-# 자바 기초 - 코드 정리
 
-주석 위주 필기는 제외하고 실행 가능한 코드 중심으로 정리. 문법 설명은 별도 노션 문서 참고.
 
-## 1. 자바 프로그램 시작 (진입점)
-
-```java
-public class 자바_시작 {
-	public static void main(String[] args) {
-		System.out.println("Hello Java");
-	}
-}
-```
-
-```java
-public class 자바_구동 {
-	public static void main(String[] args) {
-		System.out.println("자바 실행");
-		System.out.println("<html><body><h1>hello java</h1></body></html>");
-	}
-}
-```
-
----
-
-## 2. 변수 선언 및 사칙연산
+## 1. 변수 선언 및 사칙연산
 
 ```java
 public class 변수 {
@@ -51,7 +28,7 @@ public class 변수 {
 
 ---
 
-## 3. Scanner를 이용한 입력 처리
+## 2. Scanner를 이용한 입력 처리
 
 ```java
 import java.util.Scanner;
@@ -73,7 +50,7 @@ public class 변수_2 {
 
 ---
 
-## 4. 정수/실수 데이터형 범위와 형변환
+## 3. 정수/실수 데이터형 범위와 형변환
 
 ```java
 public class 변수_03 {
@@ -104,7 +81,7 @@ public class 변수_03 {
 
 ---
 
-## 5. 변수 선언 실습 (칼로리/장바구니 계산)
+## 4. 변수 선언 실습 (칼로리/장바구니 계산)
 
 ```java
 public class 변수_05 {
@@ -138,7 +115,7 @@ public class 변수_05 {
 
 ---
 
-## 6. String 결합 / 변수 값 교환(swap)
+## 5. String 결합 / 변수 값 교환(swap)
 
 ```java
 public class 변수_06 {
@@ -159,7 +136,7 @@ public class 변수_06 {
 
 ---
 
-## 7. 랜덤 값 생성 (Math.random / Random 클래스)
+## 6. 랜덤 값 생성 (Math.random / Random 클래스)
 
 ```java
 import java.util.Random;
@@ -187,7 +164,7 @@ public class 변수_정리 {
 
 ---
 
-## 8. printf 서식 출력
+## 7. printf 서식 출력
 
 ```java
 public class 변수_정리1 {
